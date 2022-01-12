@@ -4,12 +4,8 @@
 
 😁
 
-<div style="display: inline-block;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ramonfcf&show_icons=true&theme=dracula" alt="">
-    <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfcf&layout=compact&theme=dracula" alt="">
-</div>
-
-
+[![Ramons's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonfcf&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfcf&theme=aura&show_icons=true)](https://github.com/ramonfcf/github-readme-stats)
 
 <div style="display: inline-block;"><br>
     <h2> Tecnologias que uso:</h2>
