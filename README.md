@@ -1,8 +1,8 @@
 # Olá! Eu sou o Ramon! 
 
-#### Sou Flautista, Maestro e Estudante de Progarmação
+#### Sou um Dev em desenvolvimento! Mas também sou flautista e maestro!  😁
 
-😁
+
 
 [![Ramons's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonfcf&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfcf&theme=aura&show_icons=true)](https://github.com/ramonfcf/github-readme-stats)
