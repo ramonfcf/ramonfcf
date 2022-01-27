@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ramon! 
 
-#### Sou um Dev em desenvolvimento! Mas também sou flautista e maestro!  😁
+#### Sou um Dev em desenvolvimento!  😁
 
 
 
