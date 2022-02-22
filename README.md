@@ -1,7 +1,6 @@
 # Olá! Eu sou o Ramon! 
 
-#### Sou um Dev em desenvolvimento!   😁
-
+Desenvolvedor Front-End.
 
 
 [![Ramons's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonfcf&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
