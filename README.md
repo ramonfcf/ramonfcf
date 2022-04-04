@@ -3,6 +3,8 @@
 
 ### Desenvolvedor Front-End.
 
+Tech Intern na BX Blue.
+
 </br>
 </br>
 
