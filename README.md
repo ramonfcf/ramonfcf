@@ -3,7 +3,7 @@
 
 ### Desenvolvedor Front-End.
 
-Tech Intern na BX Blue.
+Tech Intern na BX Blue - Crédito Consignado.
 
 </br>
 </br>
