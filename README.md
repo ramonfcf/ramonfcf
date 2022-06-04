@@ -1,7 +1,7 @@
 # Olá! Eu sou o Ramon! 
 
 
-### Desenvolvedor Front-End.
+### Developer!
 
 Tech Intern na BX Blue - Crédito Consignado.
 
