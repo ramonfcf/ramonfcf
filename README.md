@@ -1,17 +1,27 @@
-# Olá! Eu sou o Ramon! 
-
+# Olá! Eu sou o Ramon!
 
 ### Developer!
 
 Tech Intern na BX Blue - Crédito Consignado.
 
-</br>
-</br>
+<br>
+<table >
+    <thead>
+      <tr wid>
+        <th>
+         <a href="https://github.com/ramonfcf/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramonfcf&theme=aura&show_icons=true&count_private=true&hide=stars" />
+         </a>
+        </th>
+        <th>
+        <a href="https://github.com/ramonfcf/github-readme-stats">
+          <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfcf&theme=aura&langs_count=4&count_private=true&layout=compact" />
+        </a>
+        </th>
+      </tr>
+    </thead>
 
-
-[![Ramons's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonfcf&theme=aura&show_icons=true)](https://github.com/ramonfcf/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonfcf&theme=aura&layout=compact)](https://github.com/ramonfcf/github-readme-stats)
-
+ </table>
 
 <div style="display: inline-block;"><br>
     <h2> Tecnologias que uso:</h2>
@@ -22,8 +32,7 @@ Tech Intern na BX Blue - Crédito Consignado.
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />    
 </div>
 
-
 </br>
 </br>
 
- <a href="https://www.linkedin.com/in/ramon-costa-5a4417227/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ramon-costa-5a4417227/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
