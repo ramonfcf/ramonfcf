@@ -2,7 +2,7 @@
 
 ### Developer!
 
-Tech Intern na BX Blue - Crédito Consignado.
+Dev - Picpay
 
 <br>
 <table >
