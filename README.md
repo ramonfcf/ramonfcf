@@ -29,6 +29,9 @@ Dev - Picpay
     <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="Ícone CSS3">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ícone Ruby">
     <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />    
+    <img height="56" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
+    <img height="46" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+    
 </div>
 
 </br>
