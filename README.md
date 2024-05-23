@@ -2,8 +2,6 @@
 
 ### Developer!
 
-Dev - Picpay
-
 <br>
 <table >
     <thead>
